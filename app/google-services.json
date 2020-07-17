@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663479826904",
+    "firebase_url": "https://iiitu-registration.firebaseio.com",
+    "project_id": "iiitu-registration",
+    "storage_bucket": "iiitu-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663479826904:android:0d8ac92e02eac40870daad",
+        "android_client_info": {
+          "package_name": "com.example.iiituregistrationform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663479826904-9t9tb8jk4vuqrkvk1kfs1u7odgdvl7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWkL5qrPfgpAimUJr_D_lqg5vv3ns0dJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663479826904-9t9tb8jk4vuqrkvk1kfs1u7odgdvl7b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

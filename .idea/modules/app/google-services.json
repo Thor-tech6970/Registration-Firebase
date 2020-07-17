@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677968896055",
+    "firebase_url": "https://iiitu-registration-form.firebaseio.com",
+    "project_id": "iiitu-registration-form",
+    "storage_bucket": "iiitu-registration-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677968896055:android:b2e47c791952ad6bbd5fb2",
+        "android_client_info": {
+          "package_name": "com.example.iiituregistrationform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677968896055-h3mfrohpj7is0djc298ugqokipqq2p2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iiituregistrationform",
+            "certificate_hash": "7fa38e1470ea3d5cb04dcc1ed21b501106e5d83c"
+          }
+        },
+        {
+          "client_id": "677968896055-kv1i2kelt3lugfv2gpr9f9k11hvgc927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fUzZ9CLQh_dU4zya157ULU7pCUlA-c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677968896055-kv1i2kelt3lugfv2gpr9f9k11hvgc927.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
